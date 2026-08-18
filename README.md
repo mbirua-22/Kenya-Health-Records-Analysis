@@ -1,13 +1,18 @@
 # HEALTH RECORDS PROJECT
+
 ## Project Overview
+
 This project analyses hospital data using microsoft excel
+
 ## Tools Used
--microsoft excel
 
--git
+- Microsoft Excel
 
--github
+- Git
+
+- GitHub
+  
 ## Challenges Faced
--formatting text
+- Formatting text
 
--challenging new concept
+- Learning challenging new concepts
